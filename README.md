@@ -68,4 +68,4 @@ Inferable provides SDKs for multiple languages:
 
 - [Join our Slack Community](https://join.slack.com/t/inferablecommunity/shared_invite/zt-2n61s5fp0-ieB9e~iLQqUKmHWBxPgheA)
 - [Blog](https://inferable.ai/blog)
-- Email: support@inferable.ai
+- Email: hi@inferable.ai
